@@ -194,7 +194,7 @@ Este módulo funciona como administrador principal.
 # 📂 Estructura del proyecto
 
 ```bash
-House-Rental-Management-System/
+PlataformaWebGestionAlquileres/
 │
 ├── src/                      # Código fuente React
 ├── components/               # Componentes reutilizables
@@ -226,7 +226,7 @@ House-Rental-Management-System/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/House-Rental-Management-System.git
+git clone https://github.com/isairey/PlataformaWebGestionAlquileres.git
 ```
 
 ---
@@ -304,33 +304,7 @@ El puerto se define en:
 - Confirmaciones rápidas
 - Gestión financiera
 
----
 
-# 📸 Vista previa
-
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🏠 Página principal
-<img src="https://drive.google.com/uc?export=view&id=188HXjvl2eBZx0XTtZOh_qodtXWHfYqQj" width="100%">
-
-### 📋 Gestión de propiedades
-![Properties](https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1200&auto=format&fit=crop)
-
-### 👥 Gestión de clientes
-![Users](https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop)
-
-### 📅 Gestión de alquileres
-![Rentals](https://images.unsplash.com/photo-1554224154-26032ffc0d07?q=80&w=1200&auto=format&fit=crop)
-
-### 📊 Dashboard administrativo
-![Dashboard](https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop)
-
-### ⚙️ Configuración del sistema
-![Settings](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1200&auto=format&fit=crop)
-
-</div>
 
 ---
 
